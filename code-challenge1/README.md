@@ -1,5 +1,5 @@
 # Reverse an Array
-The challenge is to whiteboard a solution for reversing an array using a function named reverseArray  
+The challenge is to whiteboard (using a visual) a solution for reversing an array using a function named reverseArray  
 
 ## Whiteboard Process
 ![code-challenge1.png](code-challenge1.png)
