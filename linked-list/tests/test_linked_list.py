@@ -1,5 +1,7 @@
 import pytest
-from linked_list import print_list
+from linked_list import (
+print_list
+)
 
 # TESTING-----------------------------------------------------------------------------
 # Can successfully instantiate an empty linked list
